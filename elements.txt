@@ -1,0 +1,8 @@
+1.characters - pc,npc.
+2.story  
+3.goal - goal/role of a playing character
+4.rules
+5.balance
+6.adaptivity
+7.element of chance vs skill
+8.feed back
